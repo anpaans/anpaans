@@ -1,51 +1,127 @@
 <div align="center">
 
-# Hi there, I'm Anpaan 👋
+  <!-- 🌟 Animated Dynamic Typing Header -->
+  <a href="https://github.com/anpaans">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Chasing+love+we+never+knew;Running+after+something+sweet;but+it+melts+before+you+hold+on" alt="Typing SVG" />
+  </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Chasing+love+we+never+knew;Running+after+something+sweet;but+it+melts+before+you+hold+on" alt="Typing SVG" />
+  <p align="center">
+    <strong><em>"Collecting memories, exploring good media, and enjoying the casual digital life."</em></strong>
+  </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/anpaans?style=social)](https://github.com/anpaans)
-[![GitHub stars](https://img.shields.io/github/stars/anpaans?style=social)](https://github.com/anpaans)
+  <!-- 🌐 Social Media & Hubs -->
+  <p align="center">
+    <a href="https://instagram.com/USERNAME_INSTAGRAM" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://open.spotify.com/user/USERNAME_SPOTIFY" target="_blank">
+      <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+    </a>
+    <a href="https://discord.com/users/USER_ID_DISCORD" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    </a>
+    <a href="https://steamcommunity.com/id/USERNAME_STEAM" target="_blank">
+      <img src="https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
+    </a>
+    <a href="https://letterboxd.com/USERNAME_LETTERBOXD" target="_blank">
+      <img src="https://img.shields.io/badge/Letterboxd-00E054?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd" />
+    </a>
+    <a href="https://myanimelist.net/profile/USERNAME_MAL" target="_blank">
+      <img src="https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" alt="MAL" />
+    </a>
+  </p>
 
 </div>
 
-## 🚀 About Me
+---
 
-- 🔭 I'm currently working on **[Project Name]**
-- 🌱 I'm currently learning **[Technology]**
-- 👯 I'm looking to collaborate on **[Interest]**
-- 💬 Ask me about **[Your Expertise]**
-- ⚡ Fun fact: **[Fun Fact]**
+### ☕ About Me
+```json
+{
+  "name": "anpaans",
+  "vibe": "Casual, Chill, & Media Enthusiast",
+  "interests": ["Cinema", "Lo-Fi & Indie Music", "Open-World Games", "Creative Design"],
+  "currently_doing": "Curating favorite playlists & watching great series",
+  "open_to": "Movie recommendations, song sharing, and casual chats"
+}
+```
 
-## 🛠️ Tech Stack
+---
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+### 🎵 Live Spotify Vibes
+<div align="center">
+  <!-- Spotify Live Playing Card (Ganti USERNAME_SPOTIFY dengan username Spotify kamu) -->
+  <a href="https://open.spotify.com/user/USERNAME_SPOTIFY">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=USERNAME_SPOTIFY&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false" alt="Spotify Status" />
+  </a>
 
-## 📊 GitHub Stats
+  <br/><br/>
+
+  <!-- Curated Favorite Genres / Rotation -->
+  <img src="https://img.shields.io/badge/Heavy_Rotation-Indie_Rock-blueviolet?style=flat-square&logo=spotify" />
+  <img src="https://img.shields.io/badge/Daily_Vibe-Lo--Fi_Beats-informational?style=flat-square&logo=spotify" />
+  <img src="https://img.shields.io/badge/Late_Night-Synthwave_%26_R%26B-critical?style=flat-square&logo=spotify" />
+  <img src="https://img.shields.io/badge/Nostalgia-City_Pop_%2F_J--Pop-yellow?style=flat-square&logo=spotify" />
+</div>
+
+---
+
+### 🎬 Top Movies & Series Showcase (Hall of Fame)
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anpaans&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anpaans&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=anpaans&theme=tokyonight&hide_border=true)
+| Category | Title / Show | Genre | Rating | Why It's Special |
+| :--- | :--- | :--- | :---: | :--- |
+| 🍿 **Top Movie** | *Interstellar / Inception* | Sci-Fi / Drama | ⭐️ 9.5/10 | Masterpiece visuals & score |
+| 📺 **Top Series** | *Breaking Bad / Better Call Saul* | Crime / Drama | ⭐️ 9.8/10 | Unmatched storytelling |
+| 🎨 **Top Animation** | *Arcane / Spider-Verse* | Action / Sci-Fi | ⭐️ 10/10 | Peak visual art & emotional depth |
+| 🏮 **Top Anime** | *Frieren / Attack on Titan* | Fantasy / Adventure | ⭐️ 9.7/10 | Timeless worldbuilding |
 
 </div>
 
-## 📫 Connect With Me
+<details>
+  <summary>🍿 <strong>Klik di sini untuk melihat Watchlist & Rekomendasi Lainnya</strong></summary>
+  <br/>
+  
+  - 🎥 **Comfort Movies:** *La La Land*, *The Grand Budapest Hotel*, *Spirited Away*
+  - 📺 **Binge-Worthy Series:** *Severance*, *Succession*, *Stranger Things*
+  - 🍿 **Ongoing Watch:** Sedang update series mingguan & film-film indie festival.
+</details>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anpaans)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/anpaans)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:email@example.com)
+---
+
+### 🎮 Gaming Corner
+
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/Current_Play-Cyberpunk_2077-FCEE09?style=for-the-badge&logo=cyberpunk2077&logoColor=black" />
+    <img src="https://img.shields.io/badge/Multiplayer-Valorant-FF4654?style=for-the-badge&logo=valorant&logoColor=white" />
+    <img src="https://img.shields.io/badge/Chill-Minecraft-green?style=for-the-badge&logo=minecraft&logoColor=white" />
+    <img src="https://img.shields.io/badge/Platform-PC_%26_Console-171a21?style=for-the-badge&logo=steam&logoColor=white" />
+  </p>
+</div>
+
+```yaml
+gaming_hall_of_fame:
+  - "The Witcher 3: Wild Hunt"
+  - "Red Dead Redemption 2"
+  - "Elden Ring"
+  - "Hollow Knight"
+```
+
+---
+
+### 📊 GitHub Activity & Atmosphere
+
+<div align="center">
+  <!-- Stats and Streak Side by Side -->
+  <img src="https://github-readme-stats.vercel.app/api?username=anpaans&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="155" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anpaans&theme=tokyonight&hide_border=true" height="155" alt="GitHub Streak" />
+</div>
 
 ---
 
 <div align="center">
-
-⭐️ From [anpaans](https://github.com/anpaans)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=90&section=footer" width="100%"/>
+  <p><em>"Always open for recommendations and good conversations. See you around!" 🚀</em></p>
 </div>
